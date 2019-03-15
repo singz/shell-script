@@ -1,4 +1,8 @@
 #!/bin/bash
+
+# author:sing
+# loading效果
+
 loading(){
     echo "loading">/tmp/load.tmp
     i=0

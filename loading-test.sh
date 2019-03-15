@@ -1,6 +1,6 @@
 #!/bin/bash
-# 测试loading效果
-./loading3.sh load
+# 测试loading效果
+./loading.sh load
 
 sleep 5 
-./loading3.sh ok
+./loading.sh ok
